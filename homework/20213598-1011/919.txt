@@ -1,0 +1,240 @@
+    1  cd
+    2  cd E
+    3  cd Z
+    4  pwd
+    5  dd D:\data
+    6  pwd
+    7  cd D:\data
+    8  touch glj.txt
+    9  ls
+   10  cd d
+   11  ls
+   12  cd D
+   13  cd D:
+   14  ls
+   15  cd D:\data
+   16  ls
+   17  cd ..
+   18  ls
+   19  mv C:\Users\ze'ta\Desktop\test.jpg src D:\data
+   20  cd D:\data
+   21  pwd
+   22  q
+   23   qdwd
+   24  d
+   25  w
+   26  a
+   27  d
+   28  aw
+   29  d 
+   30  pwd
+   31  cd D:\data
+   32  pwd
+   33  mv 
+   34  cp C:\Users\ze'ta\Desktop src D:\data
+   35  ;
+   36  pwd
+   37  ls
+   38  cp C:\Users\ze'ta\Desktop\test.jpg src D:
+   39  \data
+   40  glj.txt glj.txt glj.txt q
+   41  q
+   42  w
+   43  ed
+   44  w
+   45  qd
+   46  awd
+   47  awdf
+   48  ef
+   49  se
+   50  f
+   51  se
+   52  d f
+   53  d
+   54  fs
+   55  cd
+   56  cd
+   57  pwd
+   58  cp cp C:\Users\ze'ta\Desktop\test.jpg
+   59  pwd
+   60  cd D:\data
+   61  pwd
+   62  cp D:\test.jpg  src D:\data
+   63  pwd
+   64  ls
+   65  cp D:\test.jpg  src D:\data
+   66  cp D:\test.jpg \D:\data
+   67  ls
+   68  cp D:\test.jpg \D\data
+   69  cp D:/test.jpg /D/data
+   70  ls
+   71  hs
+   72  history 
+   73  history 
+   74  history >> history.txt
+   75  ls
+   76  mv history.txt  20213598\0906.txt
+   77  ls
+   78  mv history.txt  new_directory/new_filename
+   79  mv history.txt  new_directory/new_filename.txt
+   80  mv history.txt  new_directory\new_filename.txt
+   81  ls
+   82  mv history.txt  new_directory\\new_filename.txt
+   83  mv new_directorynew_filename.txt tex\\ee.txt
+   84  mv 01.txt tex\\ee.txt
+   85  mv 01.txt "ww\\ww".txt
+   86  mv 01 "ww\\ww"
+   87  mv 01.txt "ww\\ww"
+   88  mv 01 "2021\\90"
+   89  history  >> 20213598-0906.txt
+   90  ls
+   91  history  >> 20213598-0906.txt
+   92  history 
+   93  vim 20213598-0906.txt
+   94  cd D:/data
+   95  wd
+   96  pwd
+   97  ls
+   98  vim 20213598-0906.txt
+   99  vim 20213598-0906.txt
+  100  cd D:/data
+  101  pwd
+  102  notepad++ 20213598-0906.txt
+  103  要在 Git Bash 中修改文件的文字，可以使用文本编辑器（如 Vim、nano 或 Notepad++）来打开并编辑文件。
+  104  以下是使用 Vim 编辑器的步骤：
+  105  打开 Git Bash 终端。
+  106  使用 cd 命令导航到包含要编辑的文件的目录。
+  107  使用 ls 命令列出当前目录中的文件，确保找到要编辑的文件。
+  108  使用以下命令之一以 Vim 编辑器打开文件：
+  109  vim 文件名：打开文件并定位到第一行。
+  110  vim 20213598-0906.txt
+  111  cd D:/data
+  112  pwd
+  113  vim 20213598-0906
+  114  vim 20213598-0906.txt
+  115  ls
+  116  vim 20213598-0906.txt
+  117  vim 20213598-0906.txt
+  118  history
+  119  history >> w.txt
+  120  vim 20213598-0906.txt
+  121  history
+  122  whoami.exe
+  123  whoami.exe 
+  124  cd D:/data
+  125  ls
+  126  ll
+  127  history
+  128  mv C:/Users/ze'ta/Desktop/zlf.jpg /d/data
+  129  ;
+  130  mv C:/Users/ze'ta/Desktop/zlf.jpg /d/data;
+  131  mv C:/Users/ze'ta/Desktop/zlf.jpg /d/data
+  132  ;
+  133  mv C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  134  mv C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  135  mv C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  136  mv C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  137  mv C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  138  cd D:/data
+  139  ls
+  140  mv C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  141  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data
+  142  ;
+  143  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data;
+  144  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data
+  145  ;
+  146  mv C:/Users/ze'ta/OneDrive/文档/Learn\ \CSS\ \inOne\ \Day\ \and\ \Learn\ \It\ \Well.pdf D:/data;
+  147  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data
+  148  ;
+  149  mv C:/Users/ze'ta/OneDrive/文档/Learn\ \CSS\  \in\ \One\ \Day\ \and\ \Learn\ \It\ \Well.pdf D:/data;
+  150  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data
+  151  ;
+  152  mv C:/Users/ze'ta/OneDrive/文档/Learn\ \CSS\ \inOne\ \Day\ \and\ \Learn\ \It\ \Well.pdf D:/data;
+  153  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data
+  154  ;
+  155  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data;
+  156  mv C:/Users/ze'ta/OneDrive/文档/Learn CSS in One Day and Learn It Well.pdf D:/data
+  157  ;
+  158  mv C:/Users/ze'ta/OneDrive/文档/Learn\ CSS\ in\ One\ Day\ and\ Learn\ It\ Well.pdf D:/data;
+  159  ls
+  160  mv 01.txt D
+  161  history 
+  162  cp C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  163  cp C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  164  cp C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  165  cp C:\Users\ze'ta\Desktop\zlf.jpg D:\data;
+  166  cp C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  167  cd C:/Users/ze'ta/Desktop
+  168  cp C:/Users/ze'ta/Desktop/zlf.jpg D:/data;
+  169  cd C:/Users/ze'ta/Desktop;
+  170  mv D:/zlf.jpg;
+  171  mv D:/zlf.jpg /d/data;
+  172  mv D:/*.pdf .;
+  173  mkdir pdf;
+  174  mv *.pdf ./pdf;
+  175  mv D:/*.mp3 .;
+  176  mv *.mp3 ./mp3;
+  177  ls
+  178  ll
+  179  ls R
+  180  mkdir work;
+  181  mv mp3 ./work;
+  182  mv pdf ./work;
+  183  mv *.txt ./work;
+  184  ls work;
+  185  cp work Z;
+  186  cp work Z -r;
+  187  ls Z;
+  188  cp work /Z -r;
+  189  ls /Z;
+  190  ls /Z/work;
+  191  ls /Z/work -R;
+  192  cp zlf.jpg /Z/work;
+  193  ls /Z/work -R;
+  194  ls
+  195  ls work;
+  196  ls
+  197  cd work
+  198  ls -S
+  199  ls mp3
+  200  ls -R
+  201  mv../zlf.jpg .
+  202  mv ../zlf.jpg .
+  203  ls -R
+  204  Z:/Program\ Files\(x86\)Adobe/Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe zlf.jpg
+  205  Z:/Program\ Files\(x86\)/Adobe/Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe zlf.jpg
+  206  Z:/Program\ Files\ \(x86\)/Adobe/Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe zlf.jpg
+  207  Z:/Program\ Files\ \(x86\)/Adobe\ Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe zlf.jpg
+  208  Z:/Program\ Files\ \(x86\)/Adobe/Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe zlf.jpg
+  209  q
+  210  ;
+  211  Z:/Program\ Files\(x86\)Adobe/Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe zlf.jpg:q
+  212  Z:/Program\ Files\(x86\)Adobe/Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe /d/data/work/zlf.jpg:q
+  213  Z:/Program\ Files\(x86\)Adobe\ Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe /d/data/work/zlf.jpg:q
+  214  Z:/Program\ Files\  \(x86\)Adobe\ Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe /d/data/work/zlf.jpg:q
+  215  Z:/Program\ Files\ (x86\)Adobe\ Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe /d/data/work/zlf.jpg:q
+  216  Z:/Program\ Files\ (x86\)/Adobe\ Premiere\ Pro\ 2022/Adobe\ Premiere\ Pro.exe /d/data/work/zlf.jpg:q
+  217  ls -R
+  218  ls -R
+  219  ls -R
+  220  cd d/data/work
+  221  ls
+  222  cd D:/data/work
+  223  tar -xf vidoClips
+  224  tar -xf videoClips
+  225  ls
+  226  ls videoMP4
+  227  rm videoClips 
+  228  ls
+  229  rm videoClips ;
+  230  rm videoClips 
+  231  ls
+  232  yes |rm videoClips 
+  233  ls
+  234  ls videoMP4
+  235  C:/Program\ Files\ \(x86)\/Microsoft/Edge/Application/ msedge.exe videoMP4/funDogs.mp4;
+  236  satrt videoMP4/funDogs.mp4 
+  237  start videoMP4/funDogs.mp4 
+  238  C:/Program\ \Files\ \(\x86\)\/Microsoft/Edge/Application/msedge.exe videoMP4/funDogs.mp4;
+  239  C:/Program\ \Files\ \(\x86\)\/Microsoft/Edge/Application/msedge.exe D:/data/work/videoMP4/funDogs.mp4;
+  240  history >> 919.txt

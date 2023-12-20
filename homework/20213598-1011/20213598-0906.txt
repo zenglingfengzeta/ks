@@ -1,0 +1,185 @@
+              探索Git Bash的强大功能
+    1  cd
+    2  cd E          cd指令，进入E盘
+    3  cd Z
+    4  pwd           pwd指令，显示当前所在的位置  
+    5  dd D:\data
+    6  pwd
+    7  cd D:\data
+    8  touch glj.txt touch指令，创建文件 
+    9  ls            ls指令，显示当前所在位置的文件
+   10  cd d
+   11  ls
+   12  cd D
+   13  cd D:
+   14  ls
+   15  cd D:\data
+   16  ls
+   17  cd ..
+   18  ls
+   19  mv C:\Users\ze'ta\Desktop\test.jpg src D:\data
+       mv指令，移动文件或修改文件名字
+   20  cd D:\data
+   21  pwd
+   22  q
+   23   qdwd
+   24  d
+   25  w
+   26  a
+   27  d
+   28  aw
+   29  d 
+   30  pwd
+   31  cd D:\data
+   32  pwd
+   33  mv 
+   34  cp C:\Users\ze'ta\Desktop src D:\data
+       cp指令，复制文件到指定位置
+   35  ;
+   36  pwd
+   37  ls
+   38  cp C:\Users\ze'ta\Desktop\test.jpg src D:
+   39  \data
+   40  glj.txt glj.txt glj.txt q
+   41  q
+   42  w
+   43  ed
+   44  w
+   45  qd
+   46  awd
+   47  awdf
+   48  ef
+   49  se
+   50  f
+   51  se
+   52  d f
+   53  d
+   54  fs
+   55  cd
+   56  cd
+   57  pwd
+   58  cp cp C:\Users\ze'ta\Desktop\test.jpg
+   59  pwd
+   60  cd D:\data
+   61  pwd
+   62  cp D:\test.jpg  src D:\data
+   63  pwd
+   64  ls
+   65  cp D:\test.jpg  src D:\data
+   66  cp D:\test.jpg \D:\data
+   67  ls
+   68  cp D:\test.jpg \D\data
+   69  cp D:/test.jpg /D/data
+   70  ls
+   71  hs
+   72  history 
+   73  history                查看历史记录
+   74  history >> history.txt 
+   75  ls
+   76  mv history.txt  20213598\0906.txt
+   77  ls
+   78  mv history.txt  new_directory/new_filename
+   79  mv history.txt  new_directory/new_filename.txt
+   80  mv history.txt  new_directory\new_filename.txt
+   81  ls
+   82  mv history.txt  new_directory\\new_filename.txt
+   83  mv new_directorynew_filename.txt tex\\ee.txt
+   84  mv 01.txt tex\\ee.txt
+   85  mv 01.txt "ww\\ww".txt
+   86  mv 01 "ww\\ww"
+   87  mv 01.txt "ww\\ww"
+   88  mv 01 "2021\\90"
+   89  history  >> 20213598-0906.txt
+    1  cd
+    2  cd E
+    3  cd Z
+    4  pwd
+    5  dd D:\data
+    6  pwd
+    7  cd D:\data
+    8  touch glj.txt
+    9  ls
+   10  cd d
+   11  ls
+   12  cd D
+   13  cd D:
+   14  ls
+   15  cd D:\data
+   16  ls
+   17  cd ..
+   18  ls
+   19  mv C:\Users\ze'ta\Desktop\test.jpg src D:\data
+   20  cd D:\data
+   21  pwd
+   22  q
+   23   qdwd
+   24  d
+   25  w
+   26  a
+   27  d
+   28  aw
+   29  d 
+   30  pwd
+   31  cd D:\data
+   32  pwd
+   33  mv 
+   34  cp C:\Users\ze'ta\Desktop src D:\data
+   35  ;
+   36  pwd
+   37  ls
+   38  cp C:\Users\ze'ta\Desktop\test.jpg src D:
+   39  \data
+   40  glj.txt glj.txt glj.txt q
+   41  q
+   42  w
+   43  ed
+   44  w
+   45  qd
+   46  awd
+   47  awdf
+   48  ef
+   49  se
+   50  f
+   51  se
+   52  d f
+   53  d
+   54  fs
+   55  cd
+   56  cd
+   57  pwd
+   58  cp cp C:\Users\ze'ta\Desktop\test.jpg
+   59  pwd
+   60  cd D:\data
+   61  pwd
+   62  cp D:\test.jpg  src D:\data
+   63  pwd
+   64  ls
+   65  cp D:\test.jpg  src D:\data
+   66  cp D:\test.jpg \D:\data
+   67  ls
+   68  cp D:\test.jpg \D\data
+   69  cp D:/test.jpg /D/data
+   70  ls
+   71  hs
+   72  history 
+   73  history 
+   74  history >> history.txt
+   75  ls
+   76  mv history.txt  20213598\0906.txt
+   77  ls
+   78  mv history.txt  new_directory/new_filename
+   79  mv history.txt  new_directory/new_filename.txt
+   80  mv history.txt  new_directory\new_filename.txt
+   81  ls
+   82  mv history.txt  new_directory\\new_filename.txt
+   83  mv new_directorynew_filename.txt tex\\ee.txt
+   84  mv 01.txt tex\\ee.txt
+   85  mv 01.txt "ww\\ww".txt
+   86  mv 01 "ww\\ww"
+   87  mv 01.txt "ww\\ww"
+   88  mv 01 "2021\\90"
+   89  history  >> 20213598-0906.txt
+   90  ls
+   91  history  >> 20213598-0906.txt
+                                                            感想
+这堂课让我所获颇多，首先就是让我再次回归到平常学习的状态，结束了假期里那种松散的精神样貌。这种感觉很好。再就是，这堂课让我重新见识到了语言的魅力。
